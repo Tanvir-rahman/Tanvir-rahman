@@ -10,5 +10,5 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://dev.to/tanvirrahman"
+                feed_list: "https://dev.to/feed/tanvirrahman"
 
