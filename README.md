@@ -1,7 +1,10 @@
 <h1 align="center">Welcome 👋, to my Github World. I'm Tanvir Rahman</h1>
 <h3 align="center">A Software Engineer (Frontend) and Tech Writer. Building detailed web layouts, technological tools, experiences and developing solutions for businesses, organizations and enterprises.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-rahman" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tanvir-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-rahman" />
+  [![Latest blog post workflow](https://github.com/Tanvir-rahman/Tanvir-rahman/actions/workflows/latest-blog-post.yml/badge.svg)](https://github.com/Tanvir-rahman/Tanvir-rahman/actions/workflows/latest-blog-post.yml)
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-rahman" alt="tanvir-rahman" /></a> </p>
 
