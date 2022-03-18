@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Rotate Image - Daily JS &lpar;Day 21&rpar;](https://dev.to/tanvirrahman/rotate-image-daily-js-day-21-1i8g)
 - [Swap Nodes in Pairs - Daily JS &lpar;Day 20&rpar;](https://dev.to/tanvirrahman/swap-nodes-in-pairs-daily-js-day-20-3h36)
 - [Valid Parentheses - Daily JS &lpar;Day 19&rpar;](https://dev.to/tanvirrahman/valid-parentheses-daily-js-day-19-35l2)
 - [String to Integer &lpar;atoi&rpar; - Daily JS &lpar;Day 18&rpar;](https://dev.to/tanvirrahman/string-to-integer-atoi-daily-js-day-18-4i3b)
 - [Roman to Integer - Daily JS &lpar;Day 17&rpar;](https://dev.to/tanvirrahman/roman-to-integer-daily-js-day-17-2iop)
-- [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
