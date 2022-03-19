@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer (Frontend) and Tech Writer. Developing detailed Web Layouts, Technological Tools and Solutions for people. Also constantly improving my knowledge for a better myself.</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tanvir-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-rahman" />
+  <img src="https://komarev.com/ghpvc/?username=Tanvir-rahman&label=Profile+views&color=blue&style=plastic" alt="tanvir-rahman" />
   <a href="https://www.linkedin.com/in/tanvir-rahman/" target="_blank"> <img src="https://img.shields.io/badge/-Tanvir%20Rahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvir-rahman/"/></a>
 </p>
 
