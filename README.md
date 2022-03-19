@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Resources 🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
+- [Web3 Resources with Regular Update🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
 - [Rotate Image - Daily JS &lpar;Day 21&rpar;](https://dev.to/tanvirrahman/rotate-image-daily-js-day-21-1i8g)
 - [Swap Nodes in Pairs - Daily JS &lpar;Day 20&rpar;](https://dev.to/tanvirrahman/swap-nodes-in-pairs-daily-js-day-20-3h36)
 - [Valid Parentheses - Daily JS &lpar;Day 19&rpar;](https://dev.to/tanvirrahman/valid-parentheses-daily-js-day-19-35l2)
