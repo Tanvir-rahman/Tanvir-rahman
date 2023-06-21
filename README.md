@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Namespaces and Virtual Ethernet Networks: A Step-by-Step Tutorial](https://dev.to/tanvirrahman/exploring-namespaces-and-virtual-ethernet-networks-a-step-by-step-tutorial-575i)
 - [A Comparison of Kafka Messaging and RabbitMQ Messaging](https://dev.to/tanvirrahman/a-comparison-of-kafka-messaging-and-rabbitmq-messaging-4k9g)
 - [Elastic Service Bus: Enhancing Scalability and Communication in Distributed Systems](https://dev.to/tanvirrahman/elastic-service-bus-enhancing-scalability-and-communication-in-distributed-systems-part-1-24p0)
 - [Add Two Numbers - Daily JS &lpar;Day 22&rpar;](https://dev.to/tanvirrahman/add-two-numbers-daily-js-day-22-5al6)
 - [Web3 Resources with Regular Update🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
-- [Rotate Image - Daily JS &lpar;Day 21&rpar;](https://dev.to/tanvirrahman/rotate-image-daily-js-day-21-1i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
