@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Underlay - Overlay Networks, VxLAN and Packet Walk: A Journey of Networks](https://dev.to/tanvirrahman/simplifying-underlay-overlay-networks-vxlan-and-packet-walk-a-journey-of-networks-2jfb)
 - [Unveiling the Mysteries of Network Management in Linux](https://dev.to/tanvirrahman/unveiling-the-mysteries-of-network-management-in-linux-4haj)
 - [Exploring Linux: Kernel Space, User Space, Namespaces and Network Chaining Unveiled](https://dev.to/tanvirrahman/exploring-linux-kernel-space-user-space-namespaces-and-network-chaining-unveiled-4874)
 - [Exploring Namespaces and Virtual Ethernet Networks: A Step-by-Step Tutorial](https://dev.to/tanvirrahman/exploring-namespaces-and-virtual-ethernet-networks-a-step-by-step-tutorial-575i)
 - [A Comparison of Kafka Messaging and RabbitMQ Messaging](https://dev.to/tanvirrahman/a-comparison-of-kafka-messaging-and-rabbitmq-messaging-4k9g)
-- [Elastic Service Bus: Enhancing Scalability and Communication in Distributed Systems](https://dev.to/tanvirrahman/elastic-service-bus-enhancing-scalability-and-communication-in-distributed-systems-part-1-24p0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
