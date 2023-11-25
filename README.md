@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring and Launching an EC2 Instance: A Comprehensive Guide with Detailed Commands](https://dev.to/tanvirrahman/configuring-and-launching-an-ec2-instance-a-comprehensive-guide-with-detailed-commands-28mi)
 - [DevContainer and Makefile: A Duo for Simplified GCP Workflows](https://dev.to/tanvirrahman/devcontainer-and-makefile-a-duo-for-simplified-gcp-workflows-ii9)
 - [Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker](https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o)
 - [Simplifying Underlay - Overlay Networks, VxLAN and Packet Walk: A Journey of Networks](https://dev.to/tanvirrahman/simplifying-underlay-overlay-networks-vxlan-and-packet-walk-a-journey-of-networks-2jfb)
 - [Unveiling the Mysteries of Network Management in Linux](https://dev.to/tanvirrahman/unveiling-the-mysteries-of-network-management-in-linux-4haj)
-- [Exploring Linux: Kernel Space, User Space, Namespaces and Network Chaining Unveiled](https://dev.to/tanvirrahman/exploring-linux-kernel-space-user-space-namespaces-and-network-chaining-unveiled-4874)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
