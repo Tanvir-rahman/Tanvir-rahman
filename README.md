@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [🚨 Auto-Reboot Your Server on High CPU / Memory Load &lpar;With Safety Checks&rpar;](https://dev.to/tanvirrahman/auto-reboot-your-server-on-high-cpu-load-with-safety-checks-16od)
 - [Comprehensive Guide to Optimizing Nginx Configuration](https://dev.to/tanvirrahman/comprehensive-guide-to-optimizing-nginx-configuration-3hb9)
 - [Part 1: Installing Nginx](https://dev.to/tanvirrahman/part-1-installing-nginx-1gdi)
 - [Configuring and Launching an EC2 Instance: A Comprehensive Guide with Detailed Commands](https://dev.to/tanvirrahman/configuring-and-launching-an-ec2-instance-a-comprehensive-guide-with-detailed-commands-28mi)
 - [DevContainer and Makefile: A Duo for Simplified GCP Workflows](https://dev.to/tanvirrahman/devcontainer-and-makefile-a-duo-for-simplified-gcp-workflows-ii9)
-- [Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker](https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
