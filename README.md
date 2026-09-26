@@ -31,8 +31,8 @@ Senior Software Engineer. I build web, mobile and admin products for Bangladesh'
 
 | Project | What it does | Stack |
 |---|---|---|
-| Courier Agent App — **100K+ downloads · 4.3★** | Delivery agent app with realtime chat, live location tracking, QR scanning and foreground services | React Native · Firebase |
-| Resto App — **50K+ downloads · 4.3★** | Restaurant partner app with realtime order status and background handling | Flutter · Firebase |
+| [Courier Agent App](https://play.google.com/store/apps/details?id=com.pathao.agent) — **100K+ downloads · 4.3★** | Delivery agent app with realtime chat, live location tracking, QR scanning and foreground services | React Native · Firebase |
+| [Resto App](https://play.google.com/store/apps/details?id=com.pathao.resto) — **50K+ downloads · 4.3★** | Restaurant partner app with realtime order status and background handling | Flutter · Firebase |
 | [Pathao for Business](https://business.pathao.com/) | Corporate transport platform: companies import employees, set travel rules and track ride spend in real time across bike, car, CNG and rentals | Node.js · Express · Vue.js |
 | [Pathao Website](https://pathao.com) & Careers | Public company website and careers portal | WordPress |
 | Pathao Points | Rewards system inside the Pathao super app | Framework7 |
