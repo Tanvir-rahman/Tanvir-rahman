@@ -53,9 +53,9 @@ Senior Software Engineer. I build web, mobile and admin products for Bangladesh'
 
 <!-- BLOG-POST-LIST:START -->
 - [Automating Harbor Registry Cleanup with Kubernetes](https://dev.to/tanvirrahman/automating-harbor-registry-cleanup-with-kubernetes-360a)
-- [Secure Your Linux Server with Fail2Ban (Step-by-Step Guide)](https://dev.to/tanvirrahman/secure-your-linux-server-with-fail2ban-step-by-step-guide-3193)
-- [Setting Up Postfix with SendGrid Relay on Ubuntu: A Step-by-Step Guide](https://dev.to/tanvirrahman/setting-up-postfix-with-sendgrid-relay-on-ubuntu-a-step-by-step-guide-29c4)
-- [Auto-Reboot Your Server on High CPU / Memory Load (With Safety Checks)](https://dev.to/tanvirrahman/auto-reboot-your-server-on-high-cpu-load-with-safety-checks-16od)
+- [Secure Your Linux Server with Fail2Ban &lpar;Step-by-Step Guide&rpar;](https://dev.to/tanvirrahman/secure-your-linux-server-with-fail2ban-step-by-step-guide-3193)
+- [📬 Setting Up Postfix with SendGrid Relay on Ubuntu: A Step-by-Step Guide](https://dev.to/tanvirrahman/setting-up-postfix-with-sendgrid-relay-on-ubuntu-a-step-by-step-guide-29c4)
+- [🚨 Auto-Reboot Your Server on High CPU / Memory Load &lpar;With Safety Checks&rpar;](https://dev.to/tanvirrahman/auto-reboot-your-server-on-high-cpu-load-with-safety-checks-16od)
 - [Comprehensive Guide to Optimizing Nginx Configuration](https://dev.to/tanvirrahman/comprehensive-guide-to-optimizing-nginx-configuration-3hb9)
 <!-- BLOG-POST-LIST:END -->
 
