@@ -1,6 +1,6 @@
 # Tanvir Rahman
 
-Senior Software Engineer. I build web, mobile and admin products for Bangladesh's No. 1 super app.
+Senior Software Engineer. I build web, mobile and admin products.
 
 ---
 
