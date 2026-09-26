@@ -4,7 +4,7 @@ Full-stack engineer. I build web and mobile products for the Bangladesh market a
 
 ---
 
-Software engineer based in Dhaka, working across the stack — Node.js/Express APIs, React/Vue frontends, Flutter mobile apps and the Linux, Docker and Kubernetes ops underneath them. I like shipping early, keeping architecture simple and automating the boring parts of running servers. I write practical DevOps guides at [dev.to/tanvirrahman](https://dev.to/tanvirrahman).
+8+ years shipping production systems at [Pathao](https://pathao.com) — Bangladesh's No. 1 super app serving 10M+ users, 300K+ riders and 200K+ merchants. I work across Node.js/Express APIs, React/Vue frontends, Flutter apps and the Linux, Docker and Kubernetes ops underneath them. I care about simple architecture, reliable systems and automating the boring parts of running servers. I write practical DevOps guides at [dev.to/tanvirrahman](https://dev.to/tanvirrahman).
 
 > **Open to:** Collaboration and interesting product work
 
@@ -12,7 +12,7 @@ Software engineer based in Dhaka, working across the stack — Node.js/Express A
 
 | Period | Role | Company |
 |---|---|---|
-| 2018 – present | Software Engineer | [Pathao Limited](https://pathao.com) |
+| 2018 – present | Senior Software Engineer I | [Pathao Limited](https://pathao.com) |
 
 ## Stack
 
