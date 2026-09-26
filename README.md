@@ -1,10 +1,10 @@
 # Tanvir Rahman
 
-Full-stack engineer. I build web and mobile products for the Bangladesh market and the infrastructure that keeps them running.
+Senior Software Engineer. I build web, mobile and admin products for Bangladesh's No. 1 super app.
 
 ---
 
-8+ years shipping production systems at [Pathao](https://pathao.com) — Bangladesh's No. 1 super app serving 10M+ users, 300K+ riders and 200K+ merchants. I work across Node.js/Express APIs, React/Vue frontends, Flutter apps and the Linux, Docker and Kubernetes ops underneath them. I care about simple architecture, reliable systems and automating the boring parts of running servers. I write practical DevOps guides at [dev.to/tanvirrahman](https://dev.to/tanvirrahman).
+9+ years shipping production systems — from ride-sharing, food, courier and telehealth products at [Pathao](https://pathao.com) (10M+ users · Bangladesh & Nepal) to mobile apps with 150K+ downloads. I work across Vue/React frontends, React Native and Flutter apps, Node.js APIs and the Docker, Kubernetes and Google Cloud infrastructure underneath them. Top Rated mentor on ADPList, with mentees across 8 countries. I write practical DevOps guides at [dev.to/tanvirrahman](https://dev.to/tanvirrahman).
 
 > **Open to:** Collaboration and interesting product work
 
@@ -12,27 +12,40 @@ Full-stack engineer. I build web and mobile products for the Bangladesh market a
 
 | Period | Role | Company |
 |---|---|---|
-| 2018 – present | Senior Software Engineer I | [Pathao Limited](https://pathao.com) |
+| 2018 – present | Senior Software Engineer | [Pathao](https://pathao.com) · Bangladesh & Nepal |
+| 2017 – 2018 | Software Engineer | [Seebiz](https://seebiz.com) · USA |
 
 ## Stack
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React · Vue.js · Next.js · Nuxt.js · TypeScript · Tailwind · Redux |
-| Mobile | Flutter · React Native |
-| Backend | Express.js · Node.js · Python · REST · GraphQL |
-| Database | PostgreSQL · Redis · MongoDB · Firebase |
-| DevOps | Docker · Kubernetes · Harbor · nginx · Postfix · Fail2Ban · Linux |
-| Testing | Jest |
-| Tools | Git · Webpack · Postman · Figma |
+| Frontend | Vue.js · Vuex · Nuxt.js · React · Redux · Next.js · TypeScript · SCSS · Framework7 |
+| Mobile | React Native · Flutter |
+| Backend | Node.js · Express.js · NestJS · GraphQL · Socket.io · Centrifugo |
+| Database | MongoDB · PostgreSQL · Redis · Firebase |
+| DevOps & Cloud | Docker · Kubernetes · Google Cloud · Harbor · nginx · Linux |
+| Monitoring | Sentry · Firebase Crashlytics · Firebase Analytics |
+| Tools | Git · Jira · Figma |
 
-## Featured Projects
+## Featured Work at Pathao
 
 | Project | What it does | Stack |
 |---|---|---|
-| [jira-export](https://github.com/Tanvir-rahman/jira-export) ★1 | Exports everything from Jira Cloud — issues, sprints, velocity, boards, audit log, Product Discovery — to JSON/CSV in one command, plus a demo-data seeder | Python |
+| Courier Agent App — **100K+ downloads · 4.3★** | Delivery agent app with realtime chat, live location tracking, QR scanning and foreground services | React Native · Firebase |
+| Resto App — **50K+ downloads · 4.3★** | Restaurant partner app with realtime order status and background handling | Flutter · Firebase |
+| Pathao Points | Rewards system inside the Pathao super app | Framework7 |
+| Pathao Shop & Pathao Health | In-app e-commerce and telehealth webviews | Framework7 |
+| Internal Dashboards | Operations dashboards with maps and charts across services | Vue.js · Vuex · Chart.js · Express · MongoDB |
+| Design System | Internal component library shared across Pathao products | Vue.js |
+| Internal Platform | Access control system, Mattermost communication and Tori project management tool | JavaScript |
+
+## Open Source
+
+| Project | What it does | Stack |
+|---|---|---|
+| [jira-export](https://github.com/Tanvir-rahman/jira-export) ★1 | Exports everything from Jira Cloud — issues, sprints, velocity, boards, audit log, Product Discovery — to JSON/CSV in one command | Python |
+| [Dev Launchers](https://github.com/dev-launchers/Dev-Recruiters) | React developer on open-source projects led by industry professionals | React |
 | [flutter_bmi](https://github.com/Tanvir-rahman/flutter_bmi) | Simple Body Mass Index calculator | Flutter · Dart |
-| [daily-problem-solving](https://github.com/Tanvir-rahman/daily-problem-solving) | Daily algorithm and problem-solving practice | JavaScript |
 
 ## Writing
 
@@ -46,4 +59,4 @@ Full-stack engineer. I build web and mobile products for the Bangladesh market a
 
 ## Links
 
-[Blog](https://dev.to/tanvirrahman) · [LinkedIn](https://www.linkedin.com/in/tanvir-rahman/) · [LeetCode](https://www.leetcode.com/tanvir_rahman) · [tanvirrahmanse@gmail.com](mailto:tanvirrahmanse@gmail.com)
+[Portfolio](https://rahmantanvir.com) · [Blog](https://dev.to/tanvirrahman) · [LinkedIn](https://www.linkedin.com/in/tanvir-rahman/) · [LeetCode](https://www.leetcode.com/tanvir_rahman) · [tanvirrahmanse@gmail.com](mailto:tanvirrahmanse@gmail.com)
