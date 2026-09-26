@@ -8,6 +8,12 @@ Software engineer based in Dhaka, working across the stack — Node.js/Express A
 
 > **Open to:** Collaboration and interesting product work
 
+## Experience
+
+| Period | Role | Company |
+|---|---|---|
+| 2018 – present | Software Engineer | [Pathao Limited](https://pathao.com) |
+
 ## Stack
 
 | Layer | Technologies |
